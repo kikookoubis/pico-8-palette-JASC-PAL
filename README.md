@@ -8,7 +8,7 @@ The JASC-PAL format seems to come from Paintshop Pro? Haven't heard about it in 
 
 * #000000 (0, 0, 0) black
 * #1D2B53 (29, 43, 83) dark-blue
-* #7E2553 (126, 37, 83) |dark-purple|
+* #7E2553 (126, 37, 83) dark-purple
 * #008751 (0, 135, 81) dark-green
 * #AB5236 (171, 82, 54) brown
 * #5F574F (95, 87, 79) dark-gray
